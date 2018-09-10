@@ -5,3 +5,4 @@ Git tracks changes.
 Creating new branch is quick and simple.//xiufule
 dev
 wo zhengzai gongzuo yes
+// 这是master新内容
