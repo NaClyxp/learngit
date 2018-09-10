@@ -6,3 +6,6 @@ Creating new branch is quick and simple.//xiufule
 dev
 wo zhengzai gongzuo yes
 // 这是master新内容
+dev
+2018-9-10
+// 这是dev新内容
